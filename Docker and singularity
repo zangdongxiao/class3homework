@@ -1,0 +1,3 @@
+Docker and Singularity is similar, they are both Containers engines, which can run application without installing the gust OS.
+Inside Docker container, users have higher athority to root  to the host system. while Singularity container doesn't have 
+these power. So on the HPC centers, singularity is used more. Also singularity can run Docker container.
